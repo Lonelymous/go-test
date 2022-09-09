@@ -3,5 +3,5 @@ package test
 import "fmt"
 
 func Run() {
-	fmt.Println("nagyon megy")
+	fmt.Println("nagyon megy2")
 }
